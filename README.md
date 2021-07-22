@@ -4,9 +4,9 @@
 
 ## Pre-requisites
 
-1. [Install VirtualBox]([https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads))
+1. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
-2. [Install Vagrant]([https://www.vagrantup.com/downloads](https://www.vagrantup.com/downloads))
+2. [Install Vagrant](https://www.vagrantup.com/downloads](https://www.vagrantup.com/downloads)
 
 ## QuickStart
 
